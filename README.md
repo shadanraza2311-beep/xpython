@@ -1,2 +1,2 @@
 # xpython
-This website for making python project
+xpython is an open-source educational project that helps programmers understand how Python runs code internally. It focuses on Python bytecode, interpreter behavior, debugging, and learning the deeper working of the Python language. It is most useful for curious learners, developers, and computer science students who want to look inside Python's engine rather than just use Python normally.
